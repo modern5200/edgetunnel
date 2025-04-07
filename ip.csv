@@ -1,0 +1,549 @@
+IP地址,数据中心,地区,城市,网络延迟
+104.27.81.105,LAX,North America,Los Angeles,1 ms
+104.19.23.186,LAX,North America,Los Angeles,1 ms
+104.27.56.177,LAX,North America,Los Angeles,1 ms
+172.67.74.138,SEA,North America,Seattle,2 ms
+172.64.176.242,HKG,Asia Pacific,Hong Kong,2 ms
+172.67.67.102,SEA,North America,Seattle,2 ms
+104.18.86.124,HKG,Asia Pacific,Hong Kong,2 ms
+172.67.218.52,SJC,North America,San Jose,2 ms
+104.23.121.47,LAX,North America,Los Angeles,3 ms
+104.24.77.71,LAX,North America,Los Angeles,3 ms
+162.159.130.44,FRA,Europe,Frankfurt,3 ms
+104.23.109.171,SJC,North America,San Jose,3 ms
+104.17.92.56,SJC,North America,San Jose,3 ms
+104.19.167.166,SEA,North America,Seattle,3 ms
+104.25.169.96,SJC,North America,San Jose,3 ms
+104.25.123.164,SJC,North America,San Jose,3 ms
+104.24.32.125,LAX,North America,Los Angeles,3 ms
+104.24.147.199,LAX,North America,Los Angeles,3 ms
+104.23.98.88,SJC,North America,San Jose,3 ms
+104.24.50.142,LAX,North America,Los Angeles,3 ms
+172.67.5.82,FRA,Europe,Frankfurt,3 ms
+198.41.208.56,SJC,North America,San Jose,3 ms
+172.64.48.90,SJC,North America,San Jose,3 ms
+104.25.48.176,LAX,North America,Los Angeles,3 ms
+104.25.39.248,SJC,North America,San Jose,3 ms
+104.20.44.180,LAX,North America,Los Angeles,3 ms
+104.20.30.95,SJC,North America,San Jose,3 ms
+104.18.95.119,SJC,North America,San Jose,3 ms
+104.18.53.161,LAX,North America,Los Angeles,3 ms
+104.21.103.112,SJC,North America,San Jose,3 ms
+104.25.6.184,SJC,North America,San Jose,3 ms
+104.20.109.223,LAX,North America,Los Angeles,3 ms
+104.19.160.96,SEA,North America,Seattle,4 ms
+172.67.54.197,LAX,North America,Los Angeles,4 ms
+172.66.0.90,LAX,North America,Los Angeles,4 ms
+104.20.137.71,LAX,North America,Los Angeles,4 ms
+104.24.149.235,SJC,North America,San Jose,4 ms
+104.18.88.58,HKG,Asia Pacific,Hong Kong,4 ms
+172.67.200.119,LAX,North America,Los Angeles,4 ms
+172.67.107.92,LAX,North America,Los Angeles,4 ms
+104.20.248.205,LAX,North America,Los Angeles,4 ms
+104.21.16.253,SEA,North America,Seattle,4 ms
+104.21.15.135,SJC,North America,San Jose,4 ms
+104.21.17.61,SEA,North America,Seattle,4 ms
+104.20.141.238,SJC,North America,San Jose,4 ms
+104.19.174.124,SEA,North America,Seattle,4 ms
+104.24.69.53,SJC,North America,San Jose,4 ms
+104.27.46.223,SJC,North America,San Jose,4 ms
+104.23.120.36,LAX,North America,Los Angeles,4 ms
+104.20.107.151,LAX,North America,Los Angeles,4 ms
+104.22.58.1,SEA,North America,Seattle,4 ms
+172.64.35.246,HKG,Asia Pacific,Hong Kong,4 ms
+104.16.255.227,SJC,North America,San Jose,4 ms
+104.24.148.216,SJC,North America,San Jose,4 ms
+104.25.35.136,SJC,North America,San Jose,4 ms
+104.18.207.30,SJC,North America,San Jose,4 ms
+104.17.216.152,HKG,Asia Pacific,Hong Kong,4 ms
+104.19.252.8,SJC,North America,San Jose,4 ms
+104.25.140.64,LAX,North America,Los Angeles,4 ms
+104.21.205.168,LAX,North America,Los Angeles,4 ms
+172.64.90.47,LAX,North America,Los Angeles,4 ms
+172.67.97.167,LAX,North America,Los Angeles,4 ms
+104.25.167.121,LAX,North America,Los Angeles,4 ms
+104.25.166.26,SJC,North America,San Jose,4 ms
+104.19.175.40,SEA,North America,Seattle,4 ms
+104.21.200.253,LAX,North America,Los Angeles,4 ms
+104.27.63.99,LAX,North America,Los Angeles,4 ms
+104.18.54.11,SJC,North America,San Jose,4 ms
+104.20.19.45,LAX,North America,Los Angeles,4 ms
+104.20.45.80,LAX,North America,Los Angeles,5 ms
+104.18.96.22,SJC,North America,San Jose,5 ms
+104.25.115.74,SJC,North America,San Jose,5 ms
+104.21.224.46,SEA,North America,Seattle,5 ms
+104.17.198.80,SJC,North America,San Jose,5 ms
+104.17.87.130,SJC,North America,San Jose,5 ms
+104.17.204.4,SJC,North America,San Jose,5 ms
+104.16.231.209,SJC,North America,San Jose,5 ms
+104.19.186.66,SJC,North America,San Jose,5 ms
+104.25.117.112,LAX,North America,Los Angeles,5 ms
+104.24.71.124,SJC,North America,San Jose,5 ms
+104.20.116.180,LAX,North America,Los Angeles,5 ms
+172.67.84.242,LAX,North America,Los Angeles,5 ms
+172.67.58.239,LAX,North America,Los Angeles,5 ms
+172.64.84.224,HKG,Asia Pacific,Hong Kong,5 ms
+172.67.93.169,SJC,North America,San Jose,5 ms
+104.19.250.69,SJC,North America,San Jose,5 ms
+104.18.57.193,LAX,North America,Los Angeles,5 ms
+172.67.156.120,SEA,North America,Seattle,5 ms
+104.25.234.81,LAX,North America,Los Angeles,5 ms
+104.19.135.160,LAX,North America,Los Angeles,5 ms
+104.25.161.49,LAX,North America,Los Angeles,5 ms
+172.67.158.48,SEA,North America,Seattle,5 ms
+172.65.237.31,LAX,North America,Los Angeles,5 ms
+104.20.157.168,LAX,North America,Los Angeles,5 ms
+172.64.91.115,HKG,Asia Pacific,Hong Kong,5 ms
+104.19.22.152,LAX,North America,Los Angeles,5 ms
+172.67.42.49,SJC,North America,San Jose,5 ms
+104.27.24.107,SJC,North America,San Jose,5 ms
+172.64.145.176,HKG,Asia Pacific,Hong Kong,5 ms
+104.19.62.178,SJC,North America,San Jose,5 ms
+198.41.214.12,LAX,North America,Los Angeles,5 ms
+172.67.118.208,LAX,North America,Los Angeles,5 ms
+104.27.123.69,LAX,North America,Los Angeles,5 ms
+104.20.253.25,LAX,North America,Los Angeles,5 ms
+104.25.55.150,LAX,North America,Los Angeles,5 ms
+104.25.159.184,SJC,North America,San Jose,5 ms
+104.22.63.96,SEA,North America,Seattle,5 ms
+104.17.5.173,SJC,North America,San Jose,5 ms
+104.19.187.139,SJC,North America,San Jose,5 ms
+104.24.55.237,SJC,North America,San Jose,5 ms
+104.17.88.155,SJC,North America,San Jose,5 ms
+104.27.83.50,LAX,North America,Los Angeles,5 ms
+104.23.119.152,LAX,North America,Los Angeles,5 ms
+172.66.45.49,SEA,North America,Seattle,5 ms
+104.18.208.142,SJC,North America,San Jose,5 ms
+172.67.44.98,LAX,North America,Los Angeles,5 ms
+104.20.42.211,LAX,North America,Los Angeles,5 ms
+162.159.33.72,LAX,North America,Los Angeles,6 ms
+162.159.32.105,SJC,North America,San Jose,6 ms
+172.64.86.167,HKG,Asia Pacific,Hong Kong,6 ms
+162.159.49.105,SJC,North America,San Jose,6 ms
+104.17.115.82,SJC,North America,San Jose,6 ms
+172.67.53.152,LAX,North America,Los Angeles,6 ms
+104.20.249.70,LAX,North America,Los Angeles,6 ms
+104.24.170.25,SJC,North America,San Jose,6 ms
+104.17.199.122,HKG,Asia Pacific,Hong Kong,6 ms
+104.27.66.101,SJC,North America,San Jose,6 ms
+104.16.235.245,SJC,North America,San Jose,6 ms
+104.18.191.178,SEA,North America,Seattle,6 ms
+104.25.21.189,SJC,North America,San Jose,6 ms
+104.16.14.253,HKG,Asia Pacific,Hong Kong,6 ms
+104.22.56.147,SEA,North America,Seattle,6 ms
+104.25.138.235,SJC,North America,San Jose,6 ms
+104.25.164.189,SJC,North America,San Jose,6 ms
+104.16.148.204,SJC,North America,San Jose,6 ms
+104.17.94.133,SJC,North America,San Jose,6 ms
+104.19.48.142,LAX,North America,Los Angeles,6 ms
+104.27.9.149,SJC,North America,San Jose,6 ms
+104.17.203.45,HKG,Asia Pacific,Hong Kong,6 ms
+104.18.10.74,SEA,North America,Seattle,6 ms
+104.25.53.183,LAX,North America,Los Angeles,6 ms
+104.27.41.211,LAX,North America,Los Angeles,6 ms
+198.41.222.4,LAX,North America,Los Angeles,6 ms
+172.64.33.82,LAX,North America,Los Angeles,6 ms
+104.16.249.43,SJC,North America,San Jose,6 ms
+104.17.4.252,SJC,North America,San Jose,6 ms
+104.20.252.100,LAX,North America,Los Angeles,6 ms
+104.24.187.170,SJC,North America,San Jose,7 ms
+104.20.150.26,SJC,North America,San Jose,7 ms
+190.93.244.38,SJC,North America,San Jose,7 ms
+104.19.180.82,SJC,North America,San Jose,7 ms
+104.20.255.123,LAX,North America,Los Angeles,7 ms
+104.21.221.240,LAX,North America,Los Angeles,7 ms
+104.18.199.88,SJC,North America,San Jose,7 ms
+104.20.251.66,LAX,North America,Los Angeles,7 ms
+104.19.71.182,LAX,North America,Los Angeles,7 ms
+104.19.136.238,SJC,North America,San Jose,7 ms
+104.19.61.57,LAX,North America,Los Angeles,7 ms
+104.20.114.21,LAX,North America,Los Angeles,7 ms
+172.64.34.244,LAX,North America,Los Angeles,7 ms
+104.19.140.10,LAX,North America,Los Angeles,7 ms
+172.64.32.81,LAX,North America,Los Angeles,7 ms
+104.19.204.63,LAX,North America,Los Angeles,7 ms
+104.19.70.115,SJC,North America,San Jose,7 ms
+104.18.206.73,SJC,North America,San Jose,7 ms
+104.20.240.9,SJC,North America,San Jose,7 ms
+162.159.134.123,NRT,Asia Pacific,Tokyo,7 ms
+104.20.27.227,LAX,North America,Los Angeles,7 ms
+104.27.60.74,SJC,North America,San Jose,7 ms
+104.19.169.109,SEA,North America,Seattle,7 ms
+104.19.27.15,LAX,North America,Los Angeles,7 ms
+104.22.30.2,SJC,North America,San Jose,7 ms
+104.23.116.68,LAX,North America,Los Angeles,7 ms
+104.23.115.230,LAX,North America,Los Angeles,7 ms
+104.23.117.85,LAX,North America,Los Angeles,7 ms
+104.23.118.113,SJC,North America,San Jose,7 ms
+104.22.62.250,SEA,North America,Seattle,7 ms
+172.67.190.178,LAX,North America,Los Angeles,7 ms
+104.22.64.142,LAX,North America,Los Angeles,7 ms
+104.17.126.224,SJC,North America,San Jose,8 ms
+104.17.125.204,SJC,North America,San Jose,8 ms
+104.20.124.51,SJC,North America,San Jose,8 ms
+104.24.72.205,SJC,North America,San Jose,8 ms
+104.24.35.162,SJC,North America,San Jose,8 ms
+104.24.184.21,SJC,North America,San Jose,8 ms
+104.19.63.141,LAX,North America,Los Angeles,8 ms
+104.24.67.160,SJC,North America,San Jose,8 ms
+104.18.60.217,LAX,North America,Los Angeles,8 ms
+104.24.74.241,SJC,North America,San Jose,8 ms
+104.18.166.17,SJC,North America,San Jose,8 ms
+104.17.3.59,SJC,North America,San Jose,8 ms
+104.27.75.86,LAX,North America,Los Angeles,8 ms
+162.159.60.8,SJC,North America,San Jose,8 ms
+104.23.114.164,LAX,North America,Los Angeles,8 ms
+104.18.90.159,HKG,Asia Pacific,Hong Kong,8 ms
+104.24.182.242,LAX,North America,Los Angeles,8 ms
+104.18.92.72,SJC,North America,San Jose,8 ms
+104.21.93.57,SJC,North America,San Jose,8 ms
+104.27.20.253,LAX,North America,Los Angeles,8 ms
+104.20.250.53,LAX,North America,Los Angeles,8 ms
+104.22.29.54,SJC,North America,San Jose,8 ms
+104.24.78.79,SJC,North America,San Jose,8 ms
+104.18.91.253,SJC,North America,San Jose,8 ms
+104.17.206.38,HKG,Asia Pacific,Hong Kong,8 ms
+104.21.121.74,LAX,North America,Los Angeles,8 ms
+104.24.34.11,SJC,North America,San Jose,8 ms
+172.67.40.252,LAX,North America,Los Angeles,8 ms
+104.18.170.82,HKG,Asia Pacific,Hong Kong,8 ms
+104.18.165.125,SJC,North America,San Jose,8 ms
+104.17.124.11,SJC,North America,San Jose,8 ms
+104.24.56.9,SJC,North America,San Jose,8 ms
+104.20.32.98,LAX,North America,Los Angeles,8 ms
+104.27.69.57,SJC,North America,San Jose,8 ms
+104.24.171.65,SJC,North America,San Jose,8 ms
+104.19.141.243,LAX,North America,Los Angeles,8 ms
+104.21.203.38,LAX,North America,Los Angeles,8 ms
+172.67.169.191,SEA,North America,Seattle,8 ms
+172.67.170.21,SEA,North America,Seattle,8 ms
+104.25.165.12,SJC,North America,San Jose,8 ms
+162.159.133.206,NRT,Asia Pacific,Tokyo,9 ms
+104.24.165.77,SJC,North America,San Jose,9 ms
+104.18.79.230,SEA,North America,Seattle,9 ms
+104.17.112.246,SJC,North America,San Jose,9 ms
+104.22.61.124,SEA,North America,Seattle,9 ms
+104.19.25.166,SJC,North America,San Jose,9 ms
+172.67.112.112,LAX,North America,Los Angeles,9 ms
+104.19.185.136,SJC,North America,San Jose,9 ms
+172.67.160.248,SEA,North America,Seattle,9 ms
+104.25.105.25,SJC,North America,San Jose,9 ms
+104.18.172.134,SJC,North America,San Jose,9 ms
+104.18.171.144,SJC,North America,San Jose,9 ms
+104.25.243.112,HKG,Asia Pacific,Hong Kong,9 ms
+104.17.122.247,SJC,North America,San Jose,9 ms
+104.17.123.29,SJC,North America,San Jose,9 ms
+104.23.127.40,LAX,North America,Los Angeles,9 ms
+104.17.121.188,SJC,North America,San Jose,9 ms
+104.17.120.83,SJC,North America,San Jose,9 ms
+104.19.26.11,LAX,North America,Los Angeles,9 ms
+104.27.19.180,SJC,North America,San Jose,9 ms
+104.20.225.79,LAX,North America,Los Angeles,9 ms
+172.67.154.174,SEA,North America,Seattle,9 ms
+104.19.60.8,LAX,North America,Los Angeles,9 ms
+104.20.21.1,LAX,North America,Los Angeles,9 ms
+104.19.55.133,SJC,North America,San Jose,9 ms
+104.19.139.163,LAX,North America,Los Angeles,9 ms
+104.22.28.217,SJC,North America,San Jose,9 ms
+104.16.230.226,SJC,North America,San Jose,10 ms
+172.67.225.39,LAX,North America,Los Angeles,10 ms
+172.67.56.166,LAX,North America,Los Angeles,10 ms
+104.17.86.184,SJC,North America,San Jose,10 ms
+104.17.119.184,SJC,North America,San Jose,10 ms
+104.19.142.82,LAX,North America,Los Angeles,10 ms
+104.18.93.126,HKG,Asia Pacific,Hong Kong,10 ms
+104.17.234.248,SEA,North America,Seattle,10 ms
+104.23.112.62,LAX,North America,Los Angeles,10 ms
+104.16.122.211,SJC,North America,San Jose,10 ms
+104.19.171.226,SEA,North America,Seattle,10 ms
+104.20.36.30,LAX,North America,Los Angeles,10 ms
+104.25.49.107,SJC,North America,San Jose,10 ms
+104.24.70.121,LAX,North America,Los Angeles,10 ms
+104.20.108.235,LAX,North America,Los Angeles,10 ms
+104.17.202.192,SJC,North America,San Jose,10 ms
+172.67.104.214,LAX,North America,Los Angeles,10 ms
+172.67.102.16,LAX,North America,Los Angeles,10 ms
+104.20.113.105,LAX,North America,Los Angeles,10 ms
+104.17.85.185,SJC,North America,San Jose,11 ms
+104.20.158.106,LAX,North America,Los Angeles,11 ms
+104.16.117.76,SJC,North America,San Jose,11 ms
+172.66.2.218,LAX,North America,Los Angeles,11 ms
+104.17.229.49,SEA,North America,Seattle,11 ms
+104.16.16.15,SJC,North America,San Jose,11 ms
+172.67.0.29,FRA,Europe,Frankfurt,11 ms
+104.24.190.64,LAX,North America,Los Angeles,11 ms
+104.17.106.106,HKG,Asia Pacific,Hong Kong,11 ms
+104.16.17.67,SJC,North America,San Jose,11 ms
+104.16.140.2,FRA,Europe,Frankfurt,11 ms
+104.20.111.189,SJC,North America,San Jose,11 ms
+104.24.26.47,SJC,North America,San Jose,11 ms
+104.18.168.209,SJC,North America,San Jose,11 ms
+104.24.254.164,SJC,North America,San Jose,11 ms
+104.17.6.142,SJC,North America,San Jose,11 ms
+104.19.161.15,SEA,North America,Seattle,11 ms
+104.20.221.85,LAX,North America,Los Angeles,11 ms
+104.27.25.2,LAX,North America,Los Angeles,11 ms
+198.41.223.59,HKG,Asia Pacific,Hong Kong,11 ms
+104.25.219.213,SJC,North America,San Jose,12 ms
+104.20.110.165,LAX,North America,Los Angeles,12 ms
+104.27.53.25,SJC,North America,San Jose,12 ms
+172.67.113.62,LAX,North America,Los Angeles,12 ms
+172.66.1.234,SJC,North America,San Jose,12 ms
+104.24.41.115,SJC,North America,San Jose,12 ms
+104.18.214.229,SJC,North America,San Jose,12 ms
+104.25.45.79,SJC,North America,San Jose,12 ms
+104.17.90.182,SJC,North America,San Jose,12 ms
+104.21.24.28,SEA,North America,Seattle,12 ms
+104.17.241.249,SEA,North America,Seattle,12 ms
+104.25.163.27,LAX,North America,Los Angeles,12 ms
+104.16.149.55,SJC,North America,San Jose,12 ms
+172.67.166.12,SEA,North America,Seattle,12 ms
+104.25.116.201,LAX,North America,Los Angeles,12 ms
+104.24.87.74,SJC,North America,San Jose,12 ms
+104.20.243.159,LAX,North America,Los Angeles,12 ms
+104.20.26.64,LAX,North America,Los Angeles,12 ms
+104.22.22.178,SJC,North America,San Jose,13 ms
+104.17.227.164,SEA,North America,Seattle,13 ms
+104.16.125.149,SJC,North America,San Jose,13 ms
+104.25.253.147,HKG,Asia Pacific,Hong Kong,13 ms
+104.18.209.64,SJC,North America,San Jose,13 ms
+104.18.212.161,SJC,North America,San Jose,13 ms
+104.18.210.232,SJC,North America,San Jose,13 ms
+104.25.229.147,LAX,North America,Los Angeles,13 ms
+162.159.137.31,FRA,Europe,Frankfurt,13 ms
+104.18.13.38,SEA,North America,Seattle,13 ms
+104.17.238.173,SEA,North America,Seattle,13 ms
+104.17.240.204,SEA,North America,Seattle,13 ms
+104.17.239.161,SEA,North America,Seattle,13 ms
+104.18.56.7,LAX,North America,Los Angeles,13 ms
+104.18.169.90,SJC,North America,San Jose,13 ms
+104.19.24.133,SJC,North America,San Jose,13 ms
+104.27.70.189,LAX,North America,Los Angeles,13 ms
+104.17.221.198,SJC,North America,San Jose,13 ms
+104.16.126.30,SJC,North America,San Jose,13 ms
+104.25.160.4,SJC,North America,San Jose,13 ms
+104.16.124.121,SJC,North America,San Jose,13 ms
+104.19.137.24,LAX,North America,Los Angeles,13 ms
+104.16.123.44,SJC,North America,San Jose,13 ms
+172.64.87.159,SJC,North America,San Jose,13 ms
+162.159.135.196,NRT,Asia Pacific,Tokyo,13 ms
+104.22.24.23,SJC,North America,San Jose,13 ms
+104.20.227.90,LAX,North America,Los Angeles,14 ms
+104.18.61.7,LAX,North America,Los Angeles,14 ms
+104.20.128.147,LAX,North America,Los Angeles,14 ms
+104.18.167.117,HKG,Asia Pacific,Hong Kong,14 ms
+104.19.69.135,LAX,North America,Los Angeles,14 ms
+104.25.154.16,LAX,North America,Los Angeles,14 ms
+172.64.88.137,LAX,North America,Los Angeles,14 ms
+104.17.2.46,SJC,North America,San Jose,14 ms
+104.24.191.213,LAX,North America,Los Angeles,14 ms
+104.20.12.193,LAX,North America,Los Angeles,14 ms
+104.17.96.255,HKG,Asia Pacific,Hong Kong,14 ms
+104.16.118.121,SJC,North America,San Jose,14 ms
+104.19.249.136,SJC,North America,San Jose,14 ms
+104.25.4.109,SJC,North America,San Jose,14 ms
+104.19.138.45,LAX,North America,Los Angeles,14 ms
+104.24.76.58,SJC,North America,San Jose,14 ms
+104.16.141.205,FRA,Europe,Frankfurt,14 ms
+172.64.152.239,LAX,North America,Los Angeles,14 ms
+104.17.232.245,SEA,North America,Seattle,14 ms
+162.159.239.186,SJC,North America,San Jose,14 ms
+162.159.240.69,LAX,North America,Los Angeles,14 ms
+104.17.220.186,HKG,Asia Pacific,Hong Kong,14 ms
+104.20.138.91,SJC,North America,San Jose,15 ms
+104.16.128.248,FRA,Europe,Frankfurt,15 ms
+104.16.129.171,FRA,Europe,Frankfurt,15 ms
+104.24.155.109,SJC,North America,San Jose,15 ms
+104.22.79.40,LAX,North America,Los Angeles,15 ms
+104.19.67.93,LAX,North America,Los Angeles,15 ms
+104.26.5.74,HKG,Asia Pacific,Hong Kong,15 ms
+104.27.22.138,LAX,North America,Los Angeles,15 ms
+172.67.76.177,SEA,North America,Seattle,15 ms
+104.18.97.172,SJC,North America,San Jose,15 ms
+104.19.254.153,SJC,North America,San Jose,15 ms
+104.16.243.28,HKG,Asia Pacific,Hong Kong,15 ms
+104.24.249.150,LAX,North America,Los Angeles,15 ms
+104.21.220.102,SJC,North America,San Jose,15 ms
+104.20.228.172,LAX,North America,Los Angeles,15 ms
+104.20.226.154,LAX,North America,Los Angeles,15 ms
+104.19.57.86,SJC,North America,San Jose,15 ms
+104.16.238.64,SJC,North America,San Jose,15 ms
+172.67.101.1,LAX,North America,Los Angeles,15 ms
+104.20.136.104,LAX,North America,Los Angeles,15 ms
+104.19.28.41,LAX,North America,Los Angeles,16 ms
+104.16.233.185,SJC,North America,San Jose,16 ms
+104.24.185.36,LAX,North America,Los Angeles,16 ms
+104.24.38.142,LAX,North America,Los Angeles,16 ms
+104.17.93.246,SJC,North America,San Jose,16 ms
+104.16.237.128,SJC,North America,San Jose,16 ms
+104.17.237.91,SEA,North America,Seattle,16 ms
+104.17.236.97,SEA,North America,Seattle,16 ms
+104.27.35.238,SJC,North America,San Jose,16 ms
+104.22.59.236,SEA,North America,Seattle,16 ms
+104.22.60.128,SEA,North America,Seattle,16 ms
+104.22.53.255,SEA,North America,Seattle,16 ms
+104.25.51.73,LAX,North America,Los Angeles,16 ms
+104.25.52.90,LAX,North America,Los Angeles,16 ms
+104.20.159.231,LAX,North America,Los Angeles,16 ms
+104.25.220.160,SJC,North America,San Jose,16 ms
+104.19.143.16,LAX,North America,Los Angeles,16 ms
+104.24.28.143,LAX,North America,Los Angeles,17 ms
+104.24.189.255,LAX,North America,Los Angeles,17 ms
+104.21.105.106,LAX,North America,Los Angeles,17 ms
+104.19.58.71,SJC,North America,San Jose,17 ms
+104.22.57.27,SEA,North America,Seattle,17 ms
+162.159.58.238,LAX,North America,Los Angeles,17 ms
+104.25.214.224,SJC,North America,San Jose,17 ms
+104.19.144.4,SJC,North America,San Jose,17 ms
+104.27.67.210,LAX,North America,Los Angeles,17 ms
+104.22.31.180,SJC,North America,San Jose,17 ms
+104.21.99.190,SJC,North America,San Jose,18 ms
+104.21.207.30,LAX,North America,Los Angeles,18 ms
+104.24.192.159,LAX,North America,Los Angeles,18 ms
+104.24.194.254,LAX,North America,Los Angeles,18 ms
+104.24.63.127,LAX,North America,Los Angeles,18 ms
+104.22.74.196,LAX,North America,Los Angeles,18 ms
+104.16.15.197,SEA,North America,Seattle,18 ms
+104.16.18.201,SJC,North America,San Jose,18 ms
+104.24.29.212,LAX,North America,Los Angeles,18 ms
+104.17.104.229,HKG,Asia Pacific,Hong Kong,18 ms
+104.25.153.178,LAX,North America,Los Angeles,18 ms
+104.24.188.165,SJC,North America,San Jose,18 ms
+104.24.75.240,LAX,North America,Los Angeles,19 ms
+104.17.1.57,SJC,North America,San Jose,19 ms
+104.22.37.164,LAX,North America,Los Angeles,19 ms
+104.16.121.13,SJC,North America,San Jose,19 ms
+104.21.101.36,SJC,North America,San Jose,19 ms
+172.67.94.204,LAX,North America,Los Angeles,19 ms
+104.16.241.98,SJC,North America,San Jose,19 ms
+104.25.130.166,SJC,North America,San Jose,19 ms
+104.16.120.69,SJC,North America,San Jose,19 ms
+104.25.47.194,LAX,North America,Los Angeles,19 ms
+104.24.199.84,LAX,North America,Los Angeles,19 ms
+104.20.46.169,LAX,North America,Los Angeles,19 ms
+104.16.119.223,SJC,North America,San Jose,19 ms
+104.16.139.149,FRA,Europe,Frankfurt,20 ms
+104.20.231.52,LAX,North America,Los Angeles,20 ms
+104.16.232.171,SJC,North America,San Jose,20 ms
+104.19.173.139,SEA,North America,Seattle,20 ms
+104.25.227.237,SJC,North America,San Jose,20 ms
+104.19.39.47,SJC,North America,San Jose,20 ms
+104.24.178.31,LAX,North America,Los Angeles,20 ms
+104.25.224.205,SJC,North America,San Jose,20 ms
+104.16.138.64,FRA,Europe,Frankfurt,20 ms
+104.16.81.51,SJC,North America,San Jose,20 ms
+104.26.14.141,SEA,North America,Seattle,20 ms
+104.19.251.222,SJC,North America,San Jose,20 ms
+104.19.32.214,LAX,North America,Los Angeles,20 ms
+104.24.150.137,LAX,North America,Los Angeles,20 ms
+104.22.71.235,LAX,North America,Los Angeles,20 ms
+104.25.44.44,SJC,North America,San Jose,21 ms
+104.17.118.14,SJC,North America,San Jose,21 ms
+104.24.253.147,SJC,North America,San Jose,21 ms
+172.66.44.195,SEA,North America,Seattle,21 ms
+104.19.49.163,LAX,North America,Los Angeles,21 ms
+104.20.230.154,LAX,North America,Los Angeles,21 ms
+104.24.134.143,SJC,North America,San Jose,21 ms
+104.24.186.46,LAX,North America,Los Angeles,21 ms
+104.20.229.45,LAX,North America,Los Angeles,21 ms
+104.24.193.56,LAX,North America,Los Angeles,21 ms
+104.16.246.135,SJC,North America,San Jose,21 ms
+104.25.40.139,LAX,North America,Los Angeles,21 ms
+104.17.7.98,SJC,North America,San Jose,21 ms
+104.17.8.12,SJC,North America,San Jose,21 ms
+104.25.158.208,SJC,North America,San Jose,22 ms
+104.25.156.62,LAX,North America,Los Angeles,22 ms
+172.66.40.255,SEA,North America,Seattle,22 ms
+104.20.2.9,SJC,North America,San Jose,22 ms
+104.23.111.11,LAX,North America,Los Angeles,22 ms
+104.16.144.103,SJC,North America,San Jose,22 ms
+104.20.1.226,LAX,North America,Los Angeles,22 ms
+104.16.229.102,SJC,North America,San Jose,23 ms
+104.16.133.213,FRA,Europe,Frankfurt,23 ms
+104.16.201.42,SJC,North America,San Jose,23 ms
+104.20.3.219,LAX,North America,Los Angeles,23 ms
+104.16.142.36,FRA,Europe,Frankfurt,23 ms
+104.16.143.217,FRA,Europe,Frankfurt,23 ms
+104.20.0.119,LAX,North America,Los Angeles,23 ms
+104.24.140.223,SJC,North America,San Jose,23 ms
+104.27.79.193,LAX,North America,Los Angeles,23 ms
+108.162.192.230,LAX,North America,Los Angeles,23 ms
+104.18.64.148,SEA,North America,Seattle,24 ms
+104.18.203.64,SJC,North America,San Jose,24 ms
+104.27.68.152,LAX,North America,Los Angeles,24 ms
+198.41.217.30,LAX,North America,Los Angeles,24 ms
+104.27.77.17,LAX,North America,Los Angeles,24 ms
+172.67.110.112,LAX,North America,Los Angeles,24 ms
+104.18.198.46,SJC,North America,San Jose,24 ms
+172.67.114.43,LAX,North America,Los Angeles,24 ms
+108.162.193.53,LAX,North America,Los Angeles,24 ms
+198.41.216.122,LAX,North America,Los Angeles,24 ms
+104.19.21.47,SJC,North America,San Jose,24 ms
+104.18.112.96,FRA,Europe,Frankfurt,24 ms
+104.19.20.69,SJC,North America,San Jose,24 ms
+104.23.113.154,SJC,North America,San Jose,25 ms
+1.0.0.116,LAX,North America,Los Angeles,25 ms
+1.1.1.200,NRT,Asia Pacific,Tokyo,25 ms
+104.20.31.230,LAX,North America,Los Angeles,25 ms
+104.24.68.221,LAX,North America,Los Angeles,25 ms
+104.22.43.140,LAX,North America,Los Angeles,26 ms
+172.67.202.205,LAX,North America,Los Angeles,26 ms
+104.20.106.185,LAX,North America,Los Angeles,26 ms
+104.22.42.166,LAX,North America,Los Angeles,26 ms
+104.17.53.216,SJC,North America,San Jose,26 ms
+104.27.27.78,SJC,North America,San Jose,26 ms
+104.19.255.47,SJC,North America,San Jose,27 ms
+172.67.47.0,LAX,North America,Los Angeles,27 ms
+104.25.46.181,LAX,North America,Los Angeles,27 ms
+104.25.109.168,SJC,North America,San Jose,27 ms
+104.25.108.20,SJC,North America,San Jose,27 ms
+104.20.28.105,SJC,North America,San Jose,28 ms
+104.25.26.242,SJC,North America,San Jose,28 ms
+104.18.201.139,SJC,North America,San Jose,28 ms
+104.25.25.160,LAX,North America,Los Angeles,28 ms
+104.20.171.50,LAX,North America,Los Angeles,28 ms
+104.16.32.56,SEA,North America,Seattle,28 ms
+104.16.37.2,SEA,North America,Seattle,28 ms
+104.16.35.50,SEA,North America,Seattle,28 ms
+104.16.28.223,SJC,North America,San Jose,28 ms
+104.17.235.91,SEA,North America,Seattle,28 ms
+104.20.142.133,SJC,North America,San Jose,28 ms
+104.25.5.41,LAX,North America,Los Angeles,29 ms
+104.16.24.203,SJC,North America,San Jose,29 ms
+104.16.29.57,SJC,North America,San Jose,29 ms
+104.16.27.57,SJC,North America,San Jose,29 ms
+104.16.33.243,SEA,North America,Seattle,29 ms
+104.16.19.77,SJC,North America,San Jose,29 ms
+104.16.22.37,SJC,North America,San Jose,30 ms
+104.16.20.175,SJC,North America,San Jose,30 ms
+104.16.23.204,SJC,North America,San Jose,30 ms
+104.16.21.46,SJC,North America,San Jose,30 ms
+104.27.26.164,LAX,North America,Los Angeles,30 ms
+104.16.30.66,SJC,North America,San Jose,30 ms
+104.16.25.186,SJC,North America,San Jose,30 ms
+104.21.211.81,LAX,North America,Los Angeles,30 ms
+104.16.26.71,SJC,North America,San Jose,30 ms
+104.18.219.57,SJC,North America,San Jose,30 ms
+104.16.38.161,SEA,North America,Seattle,30 ms
+104.16.40.149,SEA,North America,Seattle,30 ms
+104.18.94.59,HKG,Asia Pacific,Hong Kong,31 ms
+172.66.46.221,SEA,North America,Seattle,31 ms
+104.17.0.206,SJC,North America,San Jose,31 ms
+162.159.236.83,LAX,North America,Los Angeles,31 ms
+104.24.73.237,LAX,North America,Los Angeles,32 ms
+104.20.145.246,LAX,North America,Los Angeles,32 ms
+104.20.223.213,LAX,North America,Los Angeles,32 ms
+104.21.210.132,PDX,North America,Portland,33 ms
+104.20.112.146,LAX,North America,Los Angeles,33 ms
+104.19.80.217,LAX,North America,Los Angeles,33 ms
+104.24.141.119,SJC,North America,San Jose,34 ms
+172.66.43.119,SEA,North America,Seattle,34 ms
+104.16.146.137,SJC,North America,San Jose,35 ms
+104.16.145.210,SJC,North America,San Jose,35 ms
+172.64.89.167,LAX,North America,Los Angeles,35 ms
+172.65.190.188,FRA,Europe,Frankfurt,37 ms
+104.26.8.211,SEA,North America,Seattle,38 ms
+104.20.131.108,LAX,North America,Los Angeles,39 ms
+104.25.50.122,LAX,North America,Los Angeles,43 ms
+104.20.139.216,LAX,North America,Los Angeles,44 ms
+104.23.99.135,LAX,North America,Los Angeles,46 ms
