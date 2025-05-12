@@ -4,7 +4,7 @@
 - **edgetunnel 最新教程**：https://www.youtube.com/watch?v=tKe9xUuFODA ***必看内容!必看内容!必看内容!!!***
 - **报错 Error 1101 详解**：https://www.youtube.com/watch?v=r4uVTEJptdE
 
-Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)，**感谢[Alice Networks](https://url.cmliussss.com/alice)提供的云服务器维持[CM订阅转换服务](https://sub.cmliussss.net/)！**
+- Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 
 ## ⚠️ 免责声明
 
@@ -138,6 +138,7 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)，**感谢[Alice Networ
 | KEY | `token` |❌| 动态UUID秘钥，使用变量`KEY`的时候，将不再启用变量`UUID`|  |
 | TIME | `7` |❌| 动态UUID有效时间(默认值:`7`天)|  |
 | UPTIME | `3` |❌| 动态UUID更新时间(默认值:北京时间`3`点更新) |  |
+| SCV | `false`或`0` |❌| 是否跳过TLS证书验证(默认`true`开启跳过证书验证) |  |
 | PROXYIP | `proxyip.cmliussss.net:443` |❌| 备选作为访问CFCDN站点的代理节点(支持自定义ProxyIP端口, 支持多ProxyIP, ProxyIP之间使用`,`或`换行`作间隔) | [Video](https://www.youtube.com/watch?v=s91zjpw3-P8&t=166s) |
 | SOCKS5  | `user:password@127.0.0.1:1080` |❌| 优先作为访问CFCDN站点的SOCKS5代理(支持多socks5, socks5之间使用`,`或`换行`作间隔) | [Video](https://www.youtube.com/watch?v=s91zjpw3-P8&t=826s) |
 | GO2SOCKS5  | `blog.cmliussss.com`,`*.ip111.cn`,`*google.com` |❌| 设置`SOCKS5`变量之后，可设置强制使用socks5访问名单(`*`可作为通配符，`换行`作多元素间隔) ||
@@ -229,8 +230,8 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)，**感谢[Alice Networ
    ```url
    /socks5=user:password@127.0.0.1:1080
    /?socks5=user:password@127.0.0.1:1080
-   /socks://dXNlcjpwYXNzd29yZA==@127.0.0.1:1080
-   /socks5://user:password@127.0.0.1:1080
+   /socks://dXNlcjpwYXNzd29yZA==@127.0.0.1:1080 (默认激活全局SOCKS5)
+   /socks5://user:password@127.0.0.1:1080 (默认激活全局SOCKS5)
    ```
 
 5. **当你的`ADDAPI`可作为`PROXYIP`时，可在`ADDAPI`变量末位添加`?proxyip=true`，即可在生成节点时使用优选IP自身作为`PROXYIP`**
@@ -255,5 +256,14 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)，**感谢[Alice Networ
 ### MacOS
    - clash.meta（[FlClash](https://github.com/chen08209/FlClash)，[mihomo-party](https://github.com/mihomo-party-org/mihomo-party)）
 
-# 🙏 感谢
-[zizifn](https://github.com/zizifn/edgetunnel)、[3Kmfi6HP](https://github.com/6Kmfi6HP/EDtunnel)、[Stanley-baby](https://github.com/Stanley-baby)、[ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)、[SHIJS1999](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)、[Alice Networks LTD](https://url.cmliussss.com/alice)、
+
+# 🙏 特别鸣谢
+### 💖 赞助支持 - 提供云服务器维持[订阅转换服务](https://sub.cmliussss.net/)
+- [Alice Networks LTD](https://url.cmliussss.com/alice)
+- [VTEXS Enterprise Cloud](https://console.vtexs.com/?affid=1532)
+### 🛠 开源代码引用
+- [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+- [3Kmfi6HP/EDtunnel](https://github.com/6Kmfi6HP/EDtunnel)
+- [SHIJS1999/cloudflare-worker-vless-ip](https://github.com/SHIJS1999/cloudflare-worker-vless-ip)
+- [Stanley-baby](https://github.com/Stanley-baby)
+- [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash/config)
